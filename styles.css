@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+body {
+    margin: 0 10px;
+}
+
+header h1 {
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url('./images/pattern.webp');
+    margin: 100px 0;
+    padding: 20px 0;
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    padding: 10px 0;
+}
+
+img {
+    margin: 25px 0;
+}
+
+h3 {
+    font-size: 20px;
+    font-family: Helvetica;
+    margin-bottom: 25px;
+}
+
+p {
+    font-family: Helvetica;
+    margin-bottom: 25px;
+}
+
+span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+#green {
+    background-color: mediumspringgreen;
+}
+
+#red {
+    background-color: lightcoral;
+}
+
+#blue {
+    background-color: skyblue;
+}
